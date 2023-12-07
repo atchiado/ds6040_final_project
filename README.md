@@ -4,7 +4,7 @@
 This repository contains two separate Jupyter Notebooks that perform a Bayesian Analysis on goalkeeper salaries in the big five European soccer leagues. 
 
 ## Data 
-The data used comes from www.fbref.com. The analysis uses data from the 2022-2023 season, including salaries, basic statistics, and advanced statistics.
+The data used comes from www.fbref.com. The analysis uses data from the 2022-2023 season, including player salaries, basic goalkeeping statistics, and advanced goalkeeping statistics.
 
 ## Required Packages
 - pymc
@@ -17,4 +17,6 @@ The data used comes from www.fbref.com. The analysis uses data from the 2022-202
 - sys
 
 ## How to Use
-no clue
+The XXX notebook contains the Python script used to scrape tables from Fbref, combine them into one Pandas DataFrame, and export as a .csv file to be used in analysis.
+
+The XXX notebook contains the Python script used to conduct the analysis of goalkeeper salaries.
