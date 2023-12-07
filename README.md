@@ -21,4 +21,4 @@ The XXX notebook contains the Python script used to scrape tables from Fbref, co
 
 The XXX notebook contains the Python script used to conduct the analysis of goalkeeper salaries. To run the code, simply run all code blocks and evaluated the output via the produced graphs.
 
-These notebooks can be run entirely on your local machine as is.
+These notebooks can be run entirely on your local machine as is, provided you edit the file location to save and load the .csv file containing the data.
